@@ -25,6 +25,6 @@ status: confirmed
 - Details: {{backup details}}
 
 ## Kit
-- Companion Vault version: 1.0
+- Companion Vault version: 1.1
 - Kit folder: {{kit folder}}
 - Setup: {{setup status}}

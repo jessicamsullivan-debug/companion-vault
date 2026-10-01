@@ -85,7 +85,7 @@ Want to see it before you install? Open the `demo-vault` folder in Obsidian (**O
 
 ## Updating
 
-Say **"update the kit"** to your assistant. It gets the newest version, tells you what changed, and only updates your vault's rules and routines after you say yes. It never changes your own notes.
+Say **"update the kit"** to your assistant. (See [CHANGELOG.md](CHANGELOG.md) for what's new.) It gets the newest version, tells you what changed, and only updates your vault's rules and routines after you say yes. It never changes your own notes.
 
 ## Your privacy
 

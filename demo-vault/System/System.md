@@ -27,3 +27,4 @@ These notes tell your assistant how to look after your vault. You can read them 
 
 ### Tools
 - `Tools/vault_check.py`: the checker. It finds problems and reports them, and never changes anything.
+- `Tools/convert_sources.py`: tidies the source details in notes made with version 1.0 (used by [[Update the Kit]]).
