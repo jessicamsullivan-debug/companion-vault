@@ -60,6 +60,8 @@ Your assistant interviews you, one question at a time. The **quick start** takes
 
 > **Tip: talk instead of typing.** Setup asks a lot of questions, and speaking your answers is much quicker. I use [Wispr Flow](https://wisprflow.ai/r?JESSICA4157), which turns what you say into text in any app. That's my referral link, and it gets you a free month.
 
+**Want a step-by-step walkthrough?** Get the guide at [stan.store/aiwithjess](https://stan.store/aiwithjess).
+
 ## How to use it
 
 - **After setup, open your assistant in `my-agent`** (not in `companion-vault`). That's where it lives. Opened anywhere else, it won't know you.
