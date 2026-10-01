@@ -3,9 +3,7 @@ summary: "How {{Business}} looks and sounds: tone, words to use and avoid, colou
 status: confirmed
 last confirmed: {{today}}
 check every: 1 year
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # {{Business}} Brand & Voice
 

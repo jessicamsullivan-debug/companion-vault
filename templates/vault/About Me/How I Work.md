@@ -3,9 +3,7 @@ summary: "How {{name}} likes information, how they plan, and what slows them dow
 status: confirmed
 last confirmed: {{today}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # How I Work
 

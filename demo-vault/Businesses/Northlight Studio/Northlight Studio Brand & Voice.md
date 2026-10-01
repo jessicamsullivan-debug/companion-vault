@@ -3,9 +3,7 @@ summary: "How Northlight Studio looks and sounds: tone, words to use and avoid, 
 status: confirmed
 last confirmed: 2026-09-29
 check every: 1 year
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # Northlight Studio Brand & Voice
 

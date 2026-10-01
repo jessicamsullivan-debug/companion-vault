@@ -3,9 +3,7 @@ summary: "What Alex Morgan is working towards this year and in the next 90 days.
 status: confirmed
 last confirmed: 2026-09-29
 check every: 3 months
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # My Goals
 

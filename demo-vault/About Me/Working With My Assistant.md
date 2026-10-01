@@ -3,9 +3,7 @@ summary: "The relationship Alex Morgan wants with their assistant: its role, wha
 status: confirmed
 last confirmed: 2026-09-29
 check every: 6 months
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # Working With My Assistant
 

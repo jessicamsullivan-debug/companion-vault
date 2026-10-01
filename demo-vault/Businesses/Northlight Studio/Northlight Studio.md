@@ -3,9 +3,7 @@ summary: "Northlight Studio: a small branding and web design studio in Bristol, 
 status: confirmed
 last confirmed: 2026-09-29
 check every: 6 months
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # Northlight Studio
 

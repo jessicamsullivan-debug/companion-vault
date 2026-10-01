@@ -3,9 +3,7 @@ summary: "Who Northlight Studio is for: the kind of person or business, what the
 status: confirmed
 last confirmed: 2026-09-29
 check every: 6 months
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # Northlight Studio Ideal Client
 

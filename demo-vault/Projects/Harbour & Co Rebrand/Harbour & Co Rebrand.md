@@ -3,9 +3,7 @@ summary: "New logo, menus and signs for Harbour & Co. Logo ideas due 02/10/2026.
 status: confirmed
 last confirmed: 2026-09-29
 check every: 1 month
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # Harbour & Co Rebrand
 

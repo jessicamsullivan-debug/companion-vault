@@ -4,5 +4,6 @@
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "Attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Inbox"
+  "newFileFolderPath": "Inbox",
+  "showInlineTitle": false
 }

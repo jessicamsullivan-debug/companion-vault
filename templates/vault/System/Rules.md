@@ -41,11 +41,11 @@ At the first session each day, follow [[Sort the Inbox]]. Things the person tell
 - Never link to a note that doesn't exist: create it (and list it), or leave the word unlinked. If you rename a note, fix every link to it.
 
 ## 8. Keep facts current
-- Fact notes carry these details at the top: summary, status, last confirmed, check every, sources. You add them; the person never has to.
+- Fact notes carry these details at the top: summary, status, last confirmed, check every, source (told by me, web or document). You add these, not the person.
 - Status: confirmed, not confirmed, needs checking, or retired. Anything inferred, imported or unsourced is "not confirmed", goes in [[To Review]], and is never treated as fact.
 - Before using a fact past its "check every", ask: "Your notes say X (last confirmed March). Still right?"
 - If it's no longer true: set it to "retired", move it to Archive, and update every note linking to it.
-- Knowledge Hub facts cite the exact page: full link, title, publisher, dates, and a short quote.
+- Web and document sources go in a "Sources" list at the end of the note: the exact page's full link, title, publisher, dates, and a short quote.
 
 ## 9. Tasks and daily notes
 - Tasks show the date added. Flag any untouched for 14 days. Done tasks leave [[Tasks]] and go in today's daily note, and any lasting fact is saved where it belongs.

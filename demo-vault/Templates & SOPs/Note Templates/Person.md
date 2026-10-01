@@ -4,9 +4,7 @@ aliases: []
 status: confirmed
 last confirmed: {{date:YYYY-MM-DD}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{date:YYYY-MM-DD}}
+source: told by me
 ---
 # {{title}}
 

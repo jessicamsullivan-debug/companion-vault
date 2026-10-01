@@ -3,9 +3,7 @@ summary: "{{Business}}: {{Business one line}}"
 status: confirmed
 last confirmed: {{today}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # {{Business}}
 

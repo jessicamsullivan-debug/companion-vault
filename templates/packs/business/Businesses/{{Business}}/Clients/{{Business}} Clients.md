@@ -3,9 +3,7 @@ summary: "Every {{Business}} client, with key clients marked. One note per clien
 status: confirmed
 last confirmed: {{today}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # {{Business}} Clients
 

@@ -3,9 +3,7 @@ summary: "What Northlight Studio charges for each thing it sells."
 status: confirmed
 last confirmed: 2026-09-29
 check every: 1 month
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # Northlight Studio Pricing
 

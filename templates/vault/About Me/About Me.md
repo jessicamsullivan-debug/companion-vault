@@ -3,9 +3,7 @@ summary: "Who {{name}} is, in brief, and links to everything about how they work
 status: confirmed
 last confirmed: {{today}}
 check every: 1 year
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # About Me
 

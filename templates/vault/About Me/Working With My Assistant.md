@@ -3,9 +3,7 @@ summary: "The relationship {{name}} wants with their assistant: its role, what i
 status: confirmed
 last confirmed: {{today}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # Working With My Assistant
 

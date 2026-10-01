@@ -3,9 +3,7 @@ summary: "Who else offers what {{Business}} does, and how {{Business}} is differ
 status: confirmed
 last confirmed: {{today}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # {{Business}} Competitors
 

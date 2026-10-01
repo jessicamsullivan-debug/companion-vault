@@ -3,9 +3,7 @@ summary: "Where {{name}} works from, which days, and useful details about each p
 status: confirmed
 last confirmed: {{today}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # My Places
 

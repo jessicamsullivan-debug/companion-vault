@@ -3,9 +3,7 @@ summary: "What {{name}} does, what they use their assistant for, their everyday 
 status: confirmed
 last confirmed: {{today}}
 check every: 6 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # Things My Assistant Should Know
 

@@ -4,9 +4,7 @@ aliases: [Sam]
 status: confirmed
 last confirmed: 2026-09-29
 check every: 3 months
-sources:
-  - type: told by me
-    date: 2026-09-29
+source: told by me
 ---
 # Sam Okafor
 

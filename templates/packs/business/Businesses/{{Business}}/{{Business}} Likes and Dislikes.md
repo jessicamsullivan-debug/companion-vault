@@ -3,9 +3,7 @@ summary: "Everything the person has asked to change, liked or not liked in {{Bus
 status: confirmed
 last confirmed: {{today}}
 check every: 3 months
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # {{Business}} Likes and Dislikes
 

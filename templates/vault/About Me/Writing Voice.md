@@ -3,9 +3,7 @@ summary: "{{name}}'s writing tones, with real examples, words they love and word
 status: confirmed
 last confirmed: {{today}}
 check every: 1 year
-sources:
-  - type: told by me
-    date: {{today}}
+source: told by me
 ---
 # Writing Voice
 
