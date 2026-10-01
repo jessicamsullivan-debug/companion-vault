@@ -1,0 +1,11 @@
+# Never publish anyone's own vault or assistant files
+*.local.*
+**/.obsidian/workspace*.json
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+# If someone sets up inside the kit folder by mistake, keep their files out
+/My Vault/
+/*Vault*/
+!/demo-vault/

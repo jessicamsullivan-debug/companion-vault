@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "additionalDirectories": ["{{vault path}}"],
+    "allow": [
+      "Read({{vault path rule}}/**)",
+      "Edit({{vault path rule}}/**)"
+    ]
+  }
+}

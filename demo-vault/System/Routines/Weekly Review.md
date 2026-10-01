@@ -1,0 +1,14 @@
+---
+summary: "Looks back at the week and plans the next one."
+---
+# Weekly Review
+
+1. Run [[Sort the Inbox]] if anything is waiting.
+2. Go through [[Tasks]]:
+   - Anything done that's still listed? Remove it and note it.
+   - Anything older than 14 days? Ask: keep, change or drop?
+   - Is Now over about 10 items? Ask what can move to Next.
+3. Run [[Review Queue]] if the person has chosen to review with the weekly review.
+4. Read this week's daily notes and give a 3–5 line summary of the week.
+5. Ask what matters most next week, and set up Now to match.
+6. Update "Last run" in [[Settings]].
