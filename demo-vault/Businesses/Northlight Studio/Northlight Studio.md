@@ -8,6 +8,10 @@ source: told by me
 # Northlight Studio
 
 ## Rules for this folder
+- Draft only: nothing is sent or published without Alex.
+- Never make a final decision without Alex.
+- Check prices with Alex before quoting them.
+- Never name a client in public content.
 - Never share prices in public posts; point people to the enquiry form.
 - Always ask [[Priya Shah]] before taking on a client over £5,000.
 

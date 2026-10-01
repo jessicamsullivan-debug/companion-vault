@@ -25,6 +25,6 @@ status: confirmed
 - Details: Vault kept inside iCloud Drive, set to Keep Downloaded.
 
 ## Kit
-- Companion Vault version: 1.1
+- Companion Vault version: 1.2
 - Kit folder: ~/my-agent/companion-vault
 - Setup: done

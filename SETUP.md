@@ -107,6 +107,7 @@ If they choose a vault they already have:
    - `app.json`: `{"alwaysUpdateLinks": true, "useMarkdownLinks": false, "newLinkFormat": "shortest", "attachmentFolderPath": "Attachments", "newFileLocation": "folder", "newFileFolderPath": "Inbox", "showInlineTitle": false}` (so notes the person creates land in the Inbox, and get filed)
    - `daily-notes.json`: `{"folder": "Daily", "format": "YYYY-MM-DD", "template": "Templates & SOPs/Note Templates/Daily Note"}`
    - `templates.json`: `{"folder": "Templates & SOPs/Note Templates", "dateFormat": "YYYY-MM-DD"}`
+   - `backlink.json`: `{"backlinkInDocument": true}`, so each note shows, at the bottom, every note that links to it
    - `bookmarks.json`: `{"items": [{"type": "file", "path": "Home.md", "title": "Home"}]}`, so Home is always one click away in the Bookmarks panel
    - `core-plugins.json`: if it exists, set `"templates": true` in it. If not, leave it; you'll ask them to switch Templates on in Part 10.
 6. For backup option 3: check the vault folder is set to always stay on the computer (see above). For option 4: help them create the private repository and make the first save.
@@ -221,7 +222,7 @@ Use the name they use ("Mum"), with other names as aliases.
 | 6.7 | "Any key or favourite clients? Names are enough for now." | a note each in `Clients/`, from the Client template, listed in `<Business> Clients` |
 | 6.8 | "Who's on the team, and what do they do?" | each person in `People/`, listed with their role in `<Business> Team` |
 | 6.9 | "Where do you market it? Website, Instagram, email, word of mouth? And how should the business sound on each one?" (suggest a tone from `Writing Voice` for each) | `<Business> Channels` table, and `{{business style}}` pointing at those tones |
-| 6.10 | "Any rules for the business? Things to always or never do or say?" Suggest starting with: draft only until they say otherwise, and never make a final decision without them. | `{{business rules}}` (or "- No special rules yet."). Always add this line too: "Learn as you go: note every change they ask for, and what they like and don't, in `<Business> Likes and Dislikes`. When a pattern is clear, suggest an SOP." |
+| 6.10 | "Every business starts with four rules that protect it: I only draft (nothing is sent or published without you), I never make a final decision without you, I check prices with you before quoting them, and I never name a client in public content. Want to keep all four? And are there any other rules: things to always or never do or say?" | `{{business rules}}`: the four default rules (unless they remove any), plus any of their own, plus this line: "Learn as you go: note every change they ask for, and what they like and don't, in `<Business> Likes and Dislikes`. When a pattern is clear, suggest an SOP." **In quick start, or if they skip, use the four defaults.** |
 | 6.11 | "What are your main tools and suppliers?" (suggest the tools from 3.6 that are for work) | `<Business> Suppliers & Tools` |
 | 6.12 | "Another business?" | repeat 6.2–6.11 |
 
