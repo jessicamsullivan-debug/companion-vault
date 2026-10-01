@@ -58,6 +58,8 @@ If you'd rather use a different folder than `my-agent`, that's fine. Setup will 
 
 Your assistant interviews you, one question at a time. The **quick start** takes about 10 minutes, and the **full setup** takes 30 to 45. You can skip anything and come back to it later. At the end, your vault opens in Obsidian and your assistant says hello.
 
+> **Tip: talk instead of typing.** Setup asks a lot of questions, and speaking your answers is much quicker. I use [Wispr Flow](https://wisprflow.ai/r?JESSICA4157), which turns what you say into text in any app. That's my referral link, and it gets you a free month.
+
 ## How to use it
 
 - **After setup, open your assistant in `my-agent`** (not in `companion-vault`). That's where it lives. Opened anywhere else, it won't know you.
