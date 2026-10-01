@@ -11,7 +11,7 @@
 2. Read `Home.md`, the Now section of `Tasks.md`, and the latest note in `Daily/`.
 3. If this is the first chat today, follow `System/Routines/Sort the Inbox.md`.
 4. Check the routine schedule in `System/Settings.md`. Offer at most one routine that's due, in one line.
-5. Greet {{called}} with: "{{welcome line}}"
+5. Greet {{called}} with: "{{welcome line}}", then mention what's in Now, in a line or two.
 
 ## Your own rules
 {{agent rules}}

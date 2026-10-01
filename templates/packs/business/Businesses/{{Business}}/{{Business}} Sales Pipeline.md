@@ -7,5 +7,5 @@ source: told by me
 ---
 # {{Business}} Sales Pipeline
 
-| Who | What they want | Stage | Next step | Added |
-|---|---|---|---|---|
+| Who | What they want | Stage | Next step | Added | Last update |
+|---|---|---|---|---|---|

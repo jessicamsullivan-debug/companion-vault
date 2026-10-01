@@ -27,9 +27,9 @@ Companion Vault gives your AI assistant a memory that lasts. It builds you an Ob
 | Assistant | Works? |
 |---|---|
 | Claude Code, in the Claude desktop app or the terminal | ✅ Best tested |
-| OpenAI Codex | ✅ |
-| Gemini CLI | ✅ |
-| Cursor and similar editors | ✅ |
+| OpenAI Codex | Should work (less tested) |
+| Gemini CLI | Should work (less tested) |
+| Cursor and similar editors | Should work (less tested) |
 | ChatGPT, Claude or Gemini in a web browser | ❌ They can't open folders on your computer |
 
 ## Install
